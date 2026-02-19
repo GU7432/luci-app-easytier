@@ -57,7 +57,7 @@ jobs:
           # - 22.03.7
           - 24.10.3
           - 24.10.4
-          - SNAPSHOT
+          # - SNAPSHOT
 
     steps:
       - uses: actions/checkout@v5
